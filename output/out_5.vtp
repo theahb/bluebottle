@@ -1,0 +1,55 @@
+<VTKFile type="PolyData">
+<PolyData>
+<Piece NumberOfPoints="1" NumberOfVerts="0" NumberOfLines="0" NumberOfStrips="0" NumberOfPolys="0">
+<Points>
+<DataArray type="Float32" NumberOfComponents="3" format="ascii">
+0.990766 0.000000 0.000000 
+</DataArray>
+</Points>
+<PointData Scalars="n r" Vectors="pvel pacc pax pay paz pomega pomegadot F L Fh Fk Fi">
+<DataArray type="Int32" Name="n" format="ascii">
+0 
+</DataArray>
+<DataArray type="Float32" Name="r" format="ascii">
+1.000000 
+</DataArray>
+<DataArray type="Float32" NumberOfComponents="3"  Name="pvel" format="ascii">
+-0.350348 0.000000 0.000000 
+</DataArray>
+<DataArray type="Float32" NumberOfComponents="3"  Name="pacc" format="ascii">
+-6.042231 -0.000000 -0.000000 
+</DataArray>
+<DataArray type="Float32" NumberOfComponents="3"  Name="pax" format="ascii">
+1.000000 0.000000 -0.000000 
+</DataArray>
+<DataArray type="Float32" NumberOfComponents="3"  Name="pay" format="ascii">
+-0.000000 1.000000 0.000000 
+</DataArray>
+<DataArray type="Float32" NumberOfComponents="3"  Name="paz" format="ascii">
+0.000000 -0.000000 1.000000 
+</DataArray>
+<DataArray type="Float32" NumberOfComponents="3"  Name="pomega" format="ascii">
+0.000000 0.000000 0.000000 
+</DataArray>
+<DataArray type="Float32" NumberOfComponents="3"  Name="pomegadot" format="ascii">
+-0.000000 -0.000000 -0.000000 
+</DataArray>
+<DataArray type="Float32" NumberOfComponents="3"  Name="F" format="ascii">
+-50.619274 -0.000000 -0.000000 
+</DataArray>
+<DataArray type="Float32" NumberOfComponents="3"  Name="L" format="ascii">
+-0.000000 -0.000000 -0.000000 
+</DataArray>
+<DataArray type="Float32" NumberOfComponents="3"  Name="Fh" format="ascii">
+48.502129 -0.000000 -0.000000 
+</DataArray>
+<DataArray type="Float32" NumberOfComponents="3"  Name="Fk" format="ascii">
+-99.121403 -0.000000 -0.000000 
+</DataArray>
+<DataArray type="Float32" NumberOfComponents="3"  Name="Fi" format="ascii">
+0.000000 0.000000 0.000000 
+</DataArray>
+</PointData>
+</Piece>
+</PolyData>
+</VTKFile>

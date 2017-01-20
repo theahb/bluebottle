@@ -1,0 +1,412 @@
+
+Running Bluebottle...
+
+Reading the domain and particle input files...
+
+Initializing domain variables...done.
+Initializing particle variables...done.
+Allocating domain CUDA device memory......done.
+Allocating particle CUDA device memory......done.
+Copying host domain data to devices...done.
+Copying host particle data to devices...done.
+
+Total CPU memory usage... 9MB
+Maximum estimated GPU memory usage... 97MB
+
+=====BLUEBOTTLE=================================================================
+Writing ParaView file 0 (t = 0.000000e+00)...done.               
+EXPD: Time = 1.302083e-03 of 1.000000e+00 (dt = 1.302083e-03).
+  Iteration 0: Error = 1.000000  Iteration 1: Error = 1.000000  Iteration 2: Error = 0.267964  Iteration 3: Error = 0.040480  Iteration 4: Error = 0.005408  The Lamb's coefficients converged in 5 iterations.
+EXPD: Time = 2.600410e-03 of 1.000000e+00 (dt = 1.298326e-03).
+  Iteration 0: Error = 0.869932  Iteration 1: Error = 0.021136  Iteration 2: Error = 0.028660  Iteration 3: Error = 0.006198  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 3.898715e-03 of 1.000000e+00 (dt = 1.298305e-03).
+  Iteration 0: Error = 0.048053  Iteration 1: Error = 1.219289  Iteration 2: Error = 0.024366  Iteration 3: Error = 0.039685  Iteration 4: Error = 0.006830  The Lamb's coefficients converged in 5 iterations.
+EXPD: Time = 5.196729e-03 of 1.000000e+00 (dt = 1.298014e-03).
+  Iteration 0: Error = 0.734448  Iteration 1: Error = 0.244306  Iteration 2: Error = 0.021028  Iteration 3: Error = 0.008308  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 6.494439e-03 of 1.000000e+00 (dt = 1.297710e-03).
+  Iteration 0: Error = 0.220479  Iteration 1: Error = 0.154251  Iteration 2: Error = 0.021208  Iteration 3: Error = 0.006676  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 7.791842e-03 of 1.000000e+00 (dt = 1.297403e-03).
+  Iteration 0: Error = 0.145584  Iteration 1: Error = 0.112674  Iteration 2: Error = 0.022775  Iteration 3: Error = 0.005048  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 9.088957e-03 of 1.000000e+00 (dt = 1.297116e-03).
+  Iteration 0: Error = 0.083919  Iteration 1: Error = 0.090883  Iteration 2: Error = 0.025308  Iteration 3: Error = 0.005256  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.038583e-02 of 1.000000e+00 (dt = 1.296871e-03).
+  Iteration 0: Error = 0.044185  Iteration 1: Error = 0.082168  Iteration 2: Error = 0.028075  Iteration 3: Error = 0.005742  The Lamb's coefficients converged in 4 iterations.
+  Writing ParaView output file 1 (t = 1.038583e-02)...                    Writing ParaView file 1 (t = 1.038583e-02)...done.
+EXPD: Time = 1.168249e-02 of 1.000000e+00 (dt = 1.296658e-03).
+  Iteration 0: Error = 0.059872  Iteration 1: Error = 0.076377  Iteration 2: Error = 0.030765  Iteration 3: Error = 0.006346  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.297897e-02 of 1.000000e+00 (dt = 1.296482e-03).
+  Iteration 0: Error = 0.073557  Iteration 1: Error = 0.076485  Iteration 2: Error = 0.032890  Iteration 3: Error = 0.007032  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.427530e-02 of 1.000000e+00 (dt = 1.296334e-03).
+  Iteration 0: Error = 0.102354  Iteration 1: Error = 0.079745  Iteration 2: Error = 0.034327  Iteration 3: Error = 0.007642  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.557151e-02 of 1.000000e+00 (dt = 1.296205e-03).
+  Iteration 0: Error = 0.122422  Iteration 1: Error = 0.085560  Iteration 2: Error = 0.034883  Iteration 3: Error = 0.008150  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.686759e-02 of 1.000000e+00 (dt = 1.296082e-03).
+  Iteration 0: Error = 0.118470  Iteration 1: Error = 0.086201  Iteration 2: Error = 0.034700  Iteration 3: Error = 0.008435  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.816355e-02 of 1.000000e+00 (dt = 1.295961e-03).
+  Iteration 0: Error = 0.116616  Iteration 1: Error = 0.093076  Iteration 2: Error = 0.033887  Iteration 3: Error = 0.008494  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.945938e-02 of 1.000000e+00 (dt = 1.295830e-03).
+  Iteration 0: Error = 0.081769  Iteration 1: Error = 0.091893  Iteration 2: Error = 0.032773  Iteration 3: Error = 0.008419  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 2.075507e-02 of 1.000000e+00 (dt = 1.295691e-03).
+  Iteration 0: Error = 0.062663  Iteration 1: Error = 0.090537  Iteration 2: Error = 0.031572  Iteration 3: Error = 0.008262  The Lamb's coefficients converged in 4 iterations.
+  Writing ParaView output file 2 (t = 2.075507e-02)...                    Writing ParaView file 2 (t = 2.075507e-02)...done.
+EXPD: Time = 2.205062e-02 of 1.000000e+00 (dt = 1.295544e-03).
+  Iteration 0: Error = 0.073143  Iteration 1: Error = 0.085738  Iteration 2: Error = 0.030566  Iteration 3: Error = 0.008120  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 2.334601e-02 of 1.000000e+00 (dt = 1.295391e-03).
+  Iteration 0: Error = 0.078942  Iteration 1: Error = 0.079244  Iteration 2: Error = 0.029854  Iteration 3: Error = 0.008013  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 2.464124e-02 of 1.000000e+00 (dt = 1.295235e-03).
+  Iteration 0: Error = 0.083696  Iteration 1: Error = 0.072901  Iteration 2: Error = 0.029537  Iteration 3: Error = 0.008022  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 2.593632e-02 of 1.000000e+00 (dt = 1.295078e-03).
+  Iteration 0: Error = 0.086332  Iteration 1: Error = 0.067565  Iteration 2: Error = 0.029560  Iteration 3: Error = 0.008127  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 2.723124e-02 of 1.000000e+00 (dt = 1.294922e-03).
+  Iteration 0: Error = 0.089106  Iteration 1: Error = 0.063169  Iteration 2: Error = 0.029880  Iteration 3: Error = 0.008294  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 2.852601e-02 of 1.000000e+00 (dt = 1.294768e-03).
+  Iteration 0: Error = 0.091047  Iteration 1: Error = 0.059607  Iteration 2: Error = 0.030364  Iteration 3: Error = 0.008479  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 2.982063e-02 of 1.000000e+00 (dt = 1.294622e-03).
+  Iteration 0: Error = 0.093195  Iteration 1: Error = 0.056879  Iteration 2: Error = 0.030926  Iteration 3: Error = 0.008674  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 3.111511e-02 of 1.000000e+00 (dt = 1.294483e-03).
+  Iteration 0: Error = 0.094722  Iteration 1: Error = 0.057559  Iteration 2: Error = 0.031442  Iteration 3: Error = 0.008846  The Lamb's coefficients converged in 4 iterations.
+  Writing ParaView output file 3 (t = 3.111511e-02)...                    Writing ParaView file 3 (t = 3.111511e-02)...done.
+EXPD: Time = 3.240946e-02 of 1.000000e+00 (dt = 1.294344e-03).
+  Iteration 0: Error = 0.096098  Iteration 1: Error = 0.058970  Iteration 2: Error = 0.031859  Iteration 3: Error = 0.008986  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 3.370367e-02 of 1.000000e+00 (dt = 1.294210e-03).
+  Iteration 0: Error = 0.096809  Iteration 1: Error = 0.059543  Iteration 2: Error = 0.032117  Iteration 3: Error = 0.009081  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 3.499775e-02 of 1.000000e+00 (dt = 1.294079e-03).
+  Iteration 0: Error = 0.097268  Iteration 1: Error = 0.062797  Iteration 2: Error = 0.032224  Iteration 3: Error = 0.009144  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 3.629170e-02 of 1.000000e+00 (dt = 1.293950e-03).
+  Iteration 0: Error = 0.097269  Iteration 1: Error = 0.065656  Iteration 2: Error = 0.032183  Iteration 3: Error = 0.009171  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 3.758552e-02 of 1.000000e+00 (dt = 1.293820e-03).
+  Iteration 0: Error = 0.097226  Iteration 1: Error = 0.068329  Iteration 2: Error = 0.032050  Iteration 3: Error = 0.009185  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 3.887921e-02 of 1.000000e+00 (dt = 1.293691e-03).
+  Iteration 0: Error = 0.097110  Iteration 1: Error = 0.070687  Iteration 2: Error = 0.031860  Iteration 3: Error = 0.009197  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 4.017277e-02 of 1.000000e+00 (dt = 1.293560e-03).
+  Iteration 0: Error = 0.164347  Iteration 1: Error = 0.056113  Iteration 2: Error = 0.031579  Iteration 3: Error = 0.009350  The Lamb's coefficients converged in 4 iterations.
+  Writing ParaView output file 4 (t = 4.017277e-02)...                    Writing ParaView file 4 (t = 4.017277e-02)...done.
+EXPD: Time = 4.146621e-02 of 1.000000e+00 (dt = 1.293440e-03).
+  Iteration 0: Error = 0.108167  Iteration 1: Error = 0.075007  Iteration 2: Error = 0.031516  Iteration 3: Error = 0.009333  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 4.275951e-02 of 1.000000e+00 (dt = 1.293305e-03).
+  Iteration 0: Error = 0.121254  Iteration 1: Error = 0.055797  Iteration 2: Error = 0.031645  Iteration 3: Error = 0.007207  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 4.405398e-02 of 1.000000e+00 (dt = 1.294469e-03).
+  Iteration 0: Error = 0.075103  Iteration 1: Error = 0.055728  Iteration 2: Error = 0.031591  Iteration 3: Error = 0.008261  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 4.534835e-02 of 1.000000e+00 (dt = 1.294371e-03).
+  Iteration 0: Error = 0.091455  Iteration 1: Error = 0.055790  Iteration 2: Error = 0.031565  Iteration 3: Error = 0.008161  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 4.664257e-02 of 1.000000e+00 (dt = 1.294213e-03).
+  Iteration 0: Error = 0.258427  Iteration 1: Error = 0.084688  Iteration 2: Error = 0.031589  Iteration 3: Error = 0.007865  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 4.793662e-02 of 1.000000e+00 (dt = 1.294054e-03).
+  Iteration 0: Error = 0.114055  Iteration 1: Error = 0.088814  Iteration 2: Error = 0.031688  Iteration 3: Error = 0.007877  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 4.923052e-02 of 1.000000e+00 (dt = 1.293899e-03).
+  Iteration 0: Error = 0.059293  Iteration 1: Error = 0.083746  Iteration 2: Error = 0.031827  Iteration 3: Error = 0.008018  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 5.052426e-02 of 1.000000e+00 (dt = 1.293747e-03).
+  Iteration 0: Error = 0.056236  Iteration 1: Error = 0.078530  Iteration 2: Error = 0.031956  Iteration 3: Error = 0.008205  The Lamb's coefficients converged in 4 iterations.
+  Writing ParaView output file 5 (t = 5.052426e-02)...                    Writing ParaView file 5 (t = 5.052426e-02)...done.
+EXPD: Time = 5.181786e-02 of 1.000000e+00 (dt = 1.293595e-03).
+  Iteration 0: Error = 0.066884  Iteration 1: Error = 0.074787  Iteration 2: Error = 0.032052  Iteration 3: Error = 0.008299  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 5.311130e-02 of 1.000000e+00 (dt = 1.293441e-03).
+  Iteration 0: Error = 0.081770  Iteration 1: Error = 0.071908  Iteration 2: Error = 0.032106  Iteration 3: Error = 0.008262  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 5.440459e-02 of 1.000000e+00 (dt = 1.293291e-03).
+  Iteration 0: Error = 0.087606  Iteration 1: Error = 0.069463  Iteration 2: Error = 0.032133  Iteration 3: Error = 0.008172  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 5.569773e-02 of 1.000000e+00 (dt = 1.293144e-03).
+  Iteration 0: Error = 0.704151  Iteration 1: Error = 0.067859  Iteration 2: Error = 0.034501  Iteration 3: Error = 0.006812  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 5.698986e-02 of 1.000000e+00 (dt = 1.292130e-03).
+  Iteration 0: Error = 0.320914  Iteration 1: Error = 0.062457  Iteration 2: Error = 0.033558  Iteration 3: Error = 0.006683  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 5.828201e-02 of 1.000000e+00 (dt = 1.292147e-03).
+  Iteration 0: Error = 0.738852  Iteration 1: Error = 0.055039  Iteration 2: Error = 0.031956  Iteration 3: Error = 0.006435  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 5.957406e-02 of 1.000000e+00 (dt = 1.292052e-03).
+  Iteration 0: Error = 23.756288  Iteration 1: Error = 1.606360  Iteration 2: Error = 0.653625  Iteration 3: Error = 0.191943  Iteration 4: Error = 0.003566  The Lamb's coefficients converged in 5 iterations.
+EXPD: Time = 6.086609e-02 of 1.000000e+00 (dt = 1.292029e-03).
+  Iteration 0: Error = 1.965961  Iteration 1: Error = 0.515854  Iteration 2: Error = 0.114754  Iteration 3: Error = 0.056335  Iteration 4: Error = 0.011110  Iteration 5: Error = 0.002403  The Lamb's coefficients converged in 6 iterations.
+  Writing ParaView output file 6 (t = 6.086609e-02)...                    Writing ParaView file 6 (t = 6.086609e-02)...done.
+EXPD: Time = 6.215804e-02 of 1.000000e+00 (dt = 1.291944e-03).
+  Iteration 0: Error = 2.695527  Iteration 1: Error = 0.094034  Iteration 2: Error = 0.030369  Iteration 3: Error = 0.013132  Iteration 4: Error = 0.002971  The Lamb's coefficients converged in 5 iterations.
+EXPD: Time = 6.344985e-02 of 1.000000e+00 (dt = 1.291810e-03).
+  Iteration 0: Error = 0.552250  Iteration 1: Error = 0.070429  Iteration 2: Error = 0.030924  Iteration 3: Error = 0.008823  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 6.474160e-02 of 1.000000e+00 (dt = 1.291754e-03).
+  Iteration 0: Error = 8.451018  Iteration 1: Error = 0.821925  Iteration 2: Error = 0.474103  Iteration 3: Error = 0.166585  Iteration 4: Error = 0.037683  Iteration 5: Error = 0.006750  The Lamb's coefficients converged in 6 iterations.
+EXPD: Time = 6.603346e-02 of 1.000000e+00 (dt = 1.291854e-03).
+  Iteration 0: Error = 5.511236  Iteration 1: Error = 0.584133  Iteration 2: Error = 0.152814  Iteration 3: Error = 0.064607  Iteration 4: Error = 0.013768  Iteration 5: Error = 0.001988  The Lamb's coefficients converged in 6 iterations.
+EXPD: Time = 6.732536e-02 of 1.000000e+00 (dt = 1.291905e-03).
+  Iteration 0: Error = 0.616044  Iteration 1: Error = 0.179380  Iteration 2: Error = 0.039797  Iteration 3: Error = 0.019273  Iteration 4: Error = 0.003914  The Lamb's coefficients converged in 5 iterations.
+EXPD: Time = 6.861721e-02 of 1.000000e+00 (dt = 1.291846e-03).
+  Iteration 0: Error = 0.141808  Iteration 1: Error = 0.147317  Iteration 2: Error = 0.033679  Iteration 3: Error = 0.016330  Iteration 4: Error = 0.003655  The Lamb's coefficients converged in 5 iterations.
+EXPD: Time = 6.990893e-02 of 1.000000e+00 (dt = 1.291726e-03).
+  Iteration 0: Error = 0.054504  Iteration 1: Error = 0.128326  Iteration 2: Error = 0.031572  Iteration 3: Error = 0.014470  Iteration 4: Error = 0.002972  The Lamb's coefficients converged in 5 iterations.
+EXPD: Time = 7.120054e-02 of 1.000000e+00 (dt = 1.291604e-03).
+  Iteration 0: Error = 3.425734  Iteration 1: Error = 0.076680  Iteration 2: Error = 0.036060  Iteration 3: Error = 0.006960  The Lamb's coefficients converged in 4 iterations.
+  Writing ParaView output file 7 (t = 7.120054e-02)...                    Writing ParaView file 7 (t = 7.120054e-02)...done.
+EXPD: Time = 7.249203e-02 of 1.000000e+00 (dt = 1.291491e-03).
+  Iteration 0: Error = 5.561653  Iteration 1: Error = 0.066394  Iteration 2: Error = 0.031891  Iteration 3: Error = 0.009246  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 7.378341e-02 of 1.000000e+00 (dt = 1.291380e-03).
+  Iteration 0: Error = 0.968731  Iteration 1: Error = 0.055235  Iteration 2: Error = 0.030023  Iteration 3: Error = 0.006053  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 7.507467e-02 of 1.000000e+00 (dt = 1.291258e-03).
+  Iteration 0: Error = 0.153051  Iteration 1: Error = 0.054402  Iteration 2: Error = 0.031100  Iteration 3: Error = 0.006195  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 7.636580e-02 of 1.000000e+00 (dt = 1.291135e-03).
+  Iteration 0: Error = 0.172003  Iteration 1: Error = 0.057397  Iteration 2: Error = 0.031715  Iteration 3: Error = 0.006288  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 7.765681e-02 of 1.000000e+00 (dt = 1.291014e-03).
+  Iteration 0: Error = 0.239955  Iteration 1: Error = 0.060414  Iteration 2: Error = 0.032375  Iteration 3: Error = 0.006387  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 7.894771e-02 of 1.000000e+00 (dt = 1.290895e-03).
+  Iteration 0: Error = 0.185865  Iteration 1: Error = 0.061822  Iteration 2: Error = 0.032764  Iteration 3: Error = 0.006451  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 8.023849e-02 of 1.000000e+00 (dt = 1.290779e-03).
+  Iteration 0: Error = 0.113081  Iteration 1: Error = 0.062382  Iteration 2: Error = 0.032998  Iteration 3: Error = 0.006493  The Lamb's coefficients converged in 4 iterations.
+  Writing ParaView output file 8 (t = 8.023849e-02)...                    Writing ParaView file 8 (t = 8.023849e-02)...done.
+EXPD: Time = 8.152915e-02 of 1.000000e+00 (dt = 1.290666e-03).
+  Iteration 0: Error = 1.268629  Iteration 1: Error = 0.169322  Iteration 2: Error = 0.036954  Iteration 3: Error = 0.015546  Iteration 4: Error = 0.004309  The Lamb's coefficients converged in 5 iterations.
+EXPD: Time = 8.281972e-02 of 1.000000e+00 (dt = 1.290562e-03).
+  Iteration 0: Error = 0.548440  Iteration 1: Error = 0.076584  Iteration 2: Error = 0.032318  Iteration 3: Error = 0.006828  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 8.411018e-02 of 1.000000e+00 (dt = 1.290460e-03).
+  Iteration 0: Error = 0.328724  Iteration 1: Error = 0.056455  Iteration 2: Error = 0.031797  Iteration 3: Error = 0.006246  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 8.540054e-02 of 1.000000e+00 (dt = 1.290361e-03).
+  Iteration 0: Error = 0.112622  Iteration 1: Error = 0.057277  Iteration 2: Error = 0.031880  Iteration 3: Error = 0.006249  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 8.669080e-02 of 1.000000e+00 (dt = 1.290262e-03).
+  Iteration 0: Error = 0.078979  Iteration 1: Error = 0.056784  Iteration 2: Error = 0.031706  Iteration 3: Error = 0.006215  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 8.798096e-02 of 1.000000e+00 (dt = 1.290164e-03).
+  Iteration 0: Error = 0.081907  Iteration 1: Error = 0.057219  Iteration 2: Error = 0.031726  Iteration 3: Error = 0.006210  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 8.927103e-02 of 1.000000e+00 (dt = 1.290066e-03).
+  Iteration 0: Error = 0.050141  Iteration 1: Error = 0.057343  Iteration 2: Error = 0.031700  Iteration 3: Error = 0.006199  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 9.056100e-02 of 1.000000e+00 (dt = 1.289967e-03).
+  Iteration 0: Error = 0.438853  Iteration 1: Error = 0.066132  Iteration 2: Error = 0.033139  Iteration 3: Error = 0.006424  The Lamb's coefficients converged in 4 iterations.
+  Writing ParaView output file 9 (t = 9.056100e-02)...                    Writing ParaView file 9 (t = 9.056100e-02)...done.
+EXPD: Time = 9.185087e-02 of 1.000000e+00 (dt = 1.289873e-03).
+  Iteration 0: Error = 0.071598  Iteration 1: Error = 0.068801  Iteration 2: Error = 0.032819  Iteration 3: Error = 0.006387  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 9.314065e-02 of 1.000000e+00 (dt = 1.289781e-03).
+  Iteration 0: Error = 0.323038  Iteration 1: Error = 0.072996  Iteration 2: Error = 0.031817  Iteration 3: Error = 0.006270  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 9.443034e-02 of 1.000000e+00 (dt = 1.289689e-03).
+  Iteration 0: Error = 0.797283  Iteration 1: Error = 0.075982  Iteration 2: Error = 0.031201  Iteration 3: Error = 0.006423  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 9.571993e-02 of 1.000000e+00 (dt = 1.289593e-03).
+  Iteration 0: Error = 3.005850  Iteration 1: Error = 0.144352  Iteration 2: Error = 0.031492  Iteration 3: Error = 0.006156  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 9.700943e-02 of 1.000000e+00 (dt = 1.289500e-03).
+  Iteration 0: Error = 0.428888  Iteration 1: Error = 0.080946  Iteration 2: Error = 0.033402  Iteration 3: Error = 0.006423  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 9.829884e-02 of 1.000000e+00 (dt = 1.289410e-03).
+  Iteration 0: Error = 0.518281  Iteration 1: Error = 0.062649  Iteration 2: Error = 0.032937  Iteration 3: Error = 0.006366  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 9.958815e-02 of 1.000000e+00 (dt = 1.289310e-03).
+  Iteration 0: Error = 0.946274  Iteration 1: Error = 0.086960  Iteration 2: Error = 0.031937  Iteration 3: Error = 0.008988  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.008774e-01 of 1.000000e+00 (dt = 1.289210e-03).
+  Iteration 0: Error = 0.263920  Iteration 1: Error = 0.115169  Iteration 2: Error = 0.031060  Iteration 3: Error = 0.012072  Iteration 4: Error = 0.002525  The Lamb's coefficients converged in 5 iterations.
+  Writing ParaView output file 10 (t = 1.008774e-01)...                    Writing ParaView file 10 (t = 1.008774e-01)...done.
+EXPD: Time = 1.021665e-01 of 1.000000e+00 (dt = 1.289107e-03).
+  Iteration 0: Error = 0.309732  Iteration 1: Error = 0.081305  Iteration 2: Error = 0.030607  Iteration 3: Error = 0.009085  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.034555e-01 of 1.000000e+00 (dt = 1.289004e-03).
+  Iteration 0: Error = 0.334182  Iteration 1: Error = 0.067540  Iteration 2: Error = 0.030871  Iteration 3: Error = 0.006889  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.047444e-01 of 1.000000e+00 (dt = 1.288900e-03).
+  Iteration 0: Error = 0.224095  Iteration 1: Error = 0.063592  Iteration 2: Error = 0.031313  Iteration 3: Error = 0.006096  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.060332e-01 of 1.000000e+00 (dt = 1.288797e-03).
+  Iteration 0: Error = 2.857315  Iteration 1: Error = 0.082460  Iteration 2: Error = 0.037354  Iteration 3: Error = 0.007106  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.073219e-01 of 1.000000e+00 (dt = 1.288700e-03).
+  Iteration 0: Error = 1.463283  Iteration 1: Error = 0.049528  Iteration 2: Error = 0.030585  Iteration 3: Error = 0.006123  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.086105e-01 of 1.000000e+00 (dt = 1.288603e-03).
+  Iteration 0: Error = 0.264103  Iteration 1: Error = 0.056571  Iteration 2: Error = 0.031829  Iteration 3: Error = 0.006289  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.098990e-01 of 1.000000e+00 (dt = 1.288506e-03).
+  Iteration 0: Error = 0.041193  Iteration 1: Error = 0.059124  Iteration 2: Error = 0.032299  Iteration 3: Error = 0.006353  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.111874e-01 of 1.000000e+00 (dt = 1.288410e-03).
+  Iteration 0: Error = 0.126926  Iteration 1: Error = 0.060981  Iteration 2: Error = 0.032698  Iteration 3: Error = 0.006413  The Lamb's coefficients converged in 4 iterations.
+  Writing ParaView output file 11 (t = 1.111874e-01)...                    Writing ParaView file 11 (t = 1.111874e-01)...done.
+EXPD: Time = 1.124757e-01 of 1.000000e+00 (dt = 1.288315e-03).
+  Iteration 0: Error = 0.292194  Iteration 1: Error = 0.061918  Iteration 2: Error = 0.032859  Iteration 3: Error = 0.006451  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.137639e-01 of 1.000000e+00 (dt = 1.288220e-03).
+  Iteration 0: Error = 0.109030  Iteration 1: Error = 0.061702  Iteration 2: Error = 0.032881  Iteration 3: Error = 0.006460  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.150520e-01 of 1.000000e+00 (dt = 1.288126e-03).
+  Iteration 0: Error = 0.044279  Iteration 1: Error = 0.061144  Iteration 2: Error = 0.032813  Iteration 3: Error = 0.006455  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.163401e-01 of 1.000000e+00 (dt = 1.288033e-03).
+  Iteration 0: Error = 0.657651  Iteration 1: Error = 0.080076  Iteration 2: Error = 0.036938  Iteration 3: Error = 0.007041  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.176280e-01 of 1.000000e+00 (dt = 1.287946e-03).
+  Iteration 0: Error = 0.643733  Iteration 1: Error = 0.068616  Iteration 2: Error = 0.034949  Iteration 3: Error = 0.006794  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.189159e-01 of 1.000000e+00 (dt = 1.287864e-03).
+  Iteration 0: Error = 0.812139  Iteration 1: Error = 0.045104  Iteration 2: Error = 0.029814  Iteration 3: Error = 0.006021  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.202037e-01 of 1.000000e+00 (dt = 1.287780e-03).
+  Iteration 0: Error = 2.002764  Iteration 1: Error = 0.071290  Iteration 2: Error = 0.029602  Iteration 3: Error = 0.005953  The Lamb's coefficients converged in 4 iterations.
+  Writing ParaView output file 12 (t = 1.202037e-01)...                    Writing ParaView file 12 (t = 1.202037e-01)...done.
+EXPD: Time = 1.214914e-01 of 1.000000e+00 (dt = 1.287694e-03).
+  Iteration 0: Error = 4.695073  Iteration 1: Error = 0.487680  Iteration 2: Error = 0.032463  Iteration 3: Error = 0.009243  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.227790e-01 of 1.000000e+00 (dt = 1.287608e-03).
+  Iteration 0: Error = 2.017357  Iteration 1: Error = 0.142422  Iteration 2: Error = 0.030853  Iteration 3: Error = 0.006083  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.240665e-01 of 1.000000e+00 (dt = 1.287522e-03).
+  Iteration 0: Error = 18.049146  Iteration 1: Error = 0.632118  Iteration 2: Error = 0.062810  Iteration 3: Error = 0.017257  Iteration 4: Error = 0.003202  The Lamb's coefficients converged in 5 iterations.
+EXPD: Time = 1.253539e-01 of 1.000000e+00 (dt = 1.287437e-03).
+  Iteration 0: Error = 0.924127  Iteration 1: Error = 0.061275  Iteration 2: Error = 0.032132  Iteration 3: Error = 0.006278  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.266413e-01 of 1.000000e+00 (dt = 1.287354e-03).
+  Iteration 0: Error = 0.494136  Iteration 1: Error = 0.063254  Iteration 2: Error = 0.032677  Iteration 3: Error = 0.006370  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.279286e-01 of 1.000000e+00 (dt = 1.287272e-03).
+  Iteration 0: Error = 0.294036  Iteration 1: Error = 0.063882  Iteration 2: Error = 0.032963  Iteration 3: Error = 0.006426  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.292158e-01 of 1.000000e+00 (dt = 1.287192e-03).
+  Iteration 0: Error = 0.164740  Iteration 1: Error = 0.064077  Iteration 2: Error = 0.033260  Iteration 3: Error = 0.006505  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.305029e-01 of 1.000000e+00 (dt = 1.287114e-03).
+  Iteration 0: Error = 0.074415  Iteration 1: Error = 0.063545  Iteration 2: Error = 0.033268  Iteration 3: Error = 0.006517  The Lamb's coefficients converged in 4 iterations.
+  Writing ParaView output file 13 (t = 1.305029e-01)...                    Writing ParaView file 13 (t = 1.305029e-01)...done.
+EXPD: Time = 1.317899e-01 of 1.000000e+00 (dt = 1.287038e-03).
+  Iteration 0: Error = 0.046186  Iteration 1: Error = 0.062720  Iteration 2: Error = 0.033180  Iteration 3: Error = 0.006511  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.330769e-01 of 1.000000e+00 (dt = 1.286965e-03).
+  Iteration 0: Error = 0.210976  Iteration 1: Error = 0.067053  Iteration 2: Error = 0.034110  Iteration 3: Error = 0.006632  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.343638e-01 of 1.000000e+00 (dt = 1.286896e-03).
+  Iteration 0: Error = 0.112449  Iteration 1: Error = 0.062387  Iteration 2: Error = 0.033248  Iteration 3: Error = 0.006515  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.356506e-01 of 1.000000e+00 (dt = 1.286831e-03).
+  Iteration 0: Error = 0.170861  Iteration 1: Error = 0.057267  Iteration 2: Error = 0.032140  Iteration 3: Error = 0.006351  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.369374e-01 of 1.000000e+00 (dt = 1.286764e-03).
+  Iteration 0: Error = 0.156470  Iteration 1: Error = 0.056962  Iteration 2: Error = 0.031977  Iteration 3: Error = 0.006330  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.382241e-01 of 1.000000e+00 (dt = 1.286697e-03).
+  Iteration 0: Error = 1.455264  Iteration 1: Error = 0.072597  Iteration 2: Error = 0.035453  Iteration 3: Error = 0.006843  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.395107e-01 of 1.000000e+00 (dt = 1.286629e-03).
+  Iteration 0: Error = 1.025460  Iteration 1: Error = 0.043644  Iteration 2: Error = 0.029226  Iteration 3: Error = 0.005912  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.407972e-01 of 1.000000e+00 (dt = 1.286559e-03).
+  Iteration 0: Error = 0.463119  Iteration 1: Error = 0.052599  Iteration 2: Error = 0.030698  Iteration 3: Error = 0.006099  The Lamb's coefficients converged in 4 iterations.
+  Writing ParaView output file 14 (t = 1.407972e-01)...                    Writing ParaView file 14 (t = 1.407972e-01)...done.
+EXPD: Time = 1.420837e-01 of 1.000000e+00 (dt = 1.286489e-03).
+  Iteration 0: Error = 0.070672  Iteration 1: Error = 0.057609  Iteration 2: Error = 0.031600  Iteration 3: Error = 0.006221  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.433702e-01 of 1.000000e+00 (dt = 1.286419e-03).
+  Iteration 0: Error = 0.094879  Iteration 1: Error = 0.060693  Iteration 2: Error = 0.032241  Iteration 3: Error = 0.006315  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.446565e-01 of 1.000000e+00 (dt = 1.286350e-03).
+  Iteration 0: Error = 0.125768  Iteration 1: Error = 0.062752  Iteration 2: Error = 0.032749  Iteration 3: Error = 0.006396  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.459428e-01 of 1.000000e+00 (dt = 1.286284e-03).
+  Iteration 0: Error = 0.117590  Iteration 1: Error = 0.063938  Iteration 2: Error = 0.033116  Iteration 3: Error = 0.006459  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.472290e-01 of 1.000000e+00 (dt = 1.286221e-03).
+  Iteration 0: Error = 0.094441  Iteration 1: Error = 0.065844  Iteration 2: Error = 0.033640  Iteration 3: Error = 0.006561  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.485152e-01 of 1.000000e+00 (dt = 1.286161e-03).
+  Iteration 0: Error = 0.369924  Iteration 1: Error = 0.075296  Iteration 2: Error = 0.035924  Iteration 3: Error = 0.006909  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.498013e-01 of 1.000000e+00 (dt = 1.286108e-03).
+  Iteration 0: Error = 0.162794  Iteration 1: Error = 0.068892  Iteration 2: Error = 0.034885  Iteration 3: Error = 0.006777  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.510873e-01 of 1.000000e+00 (dt = 1.286058e-03).
+  Iteration 0: Error = 0.248195  Iteration 1: Error = 0.059666  Iteration 2: Error = 0.032991  Iteration 3: Error = 0.006500  The Lamb's coefficients converged in 4 iterations.
+  Writing ParaView output file 15 (t = 1.510873e-01)...                    Writing ParaView file 15 (t = 1.510873e-01)...done.
+EXPD: Time = 1.523733e-01 of 1.000000e+00 (dt = 1.286006e-03).
+  Iteration 0: Error = 0.289373  Iteration 1: Error = 0.053806  Iteration 2: Error = 0.031695  Iteration 3: Error = 0.006320  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.536593e-01 of 1.000000e+00 (dt = 1.285954e-03).
+  Iteration 0: Error = 0.509464  Iteration 1: Error = 0.051308  Iteration 2: Error = 0.030861  Iteration 3: Error = 0.006171  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.549452e-01 of 1.000000e+00 (dt = 1.285899e-03).
+  Iteration 0: Error = 0.763022  Iteration 1: Error = 0.056058  Iteration 2: Error = 0.031523  Iteration 3: Error = 0.006229  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.562310e-01 of 1.000000e+00 (dt = 1.285847e-03).
+  Iteration 0: Error = 0.439306  Iteration 1: Error = 0.056473  Iteration 2: Error = 0.031477  Iteration 3: Error = 0.006210  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.575168e-01 of 1.000000e+00 (dt = 1.285794e-03).
+  Iteration 0: Error = 0.252127  Iteration 1: Error = 0.058669  Iteration 2: Error = 0.031856  Iteration 3: Error = 0.006258  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.588026e-01 of 1.000000e+00 (dt = 1.285741e-03).
+  Iteration 0: Error = 0.418289  Iteration 1: Error = 0.061994  Iteration 2: Error = 0.032567  Iteration 3: Error = 0.006362  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.600883e-01 of 1.000000e+00 (dt = 1.285688e-03).
+  Iteration 0: Error = 0.349441  Iteration 1: Error = 0.063872  Iteration 2: Error = 0.033055  Iteration 3: Error = 0.006439  The Lamb's coefficients converged in 4 iterations.
+  Writing ParaView output file 16 (t = 1.600883e-01)...                    Writing ParaView file 16 (t = 1.600883e-01)...done.
+EXPD: Time = 1.613739e-01 of 1.000000e+00 (dt = 1.285636e-03).
+  Iteration 0: Error = 0.344652  Iteration 1: Error = 0.076215  Iteration 2: Error = 0.036069  Iteration 3: Error = 0.006924  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.626595e-01 of 1.000000e+00 (dt = 1.285589e-03).
+  Iteration 0: Error = 0.160394  Iteration 1: Error = 0.070247  Iteration 2: Error = 0.035171  Iteration 3: Error = 0.006818  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.639450e-01 of 1.000000e+00 (dt = 1.285545e-03).
+  Iteration 0: Error = 0.108139  Iteration 1: Error = 0.061628  Iteration 2: Error = 0.033450  Iteration 3: Error = 0.006570  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.652305e-01 of 1.000000e+00 (dt = 1.285500e-03).
+  Iteration 0: Error = 0.104526  Iteration 1: Error = 0.057108  Iteration 2: Error = 0.032387  Iteration 3: Error = 0.006394  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.665160e-01 of 1.000000e+00 (dt = 1.285456e-03).
+  Iteration 0: Error = 0.363691  Iteration 1: Error = 0.057429  Iteration 2: Error = 0.032523  Iteration 3: Error = 0.006448  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.678014e-01 of 1.000000e+00 (dt = 1.285411e-03).
+  Iteration 0: Error = 0.333828  Iteration 1: Error = 0.056163  Iteration 2: Error = 0.032067  Iteration 3: Error = 0.006365  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.690868e-01 of 1.000000e+00 (dt = 1.285365e-03).
+  Iteration 0: Error = 0.409775  Iteration 1: Error = 0.074378  Iteration 2: Error = 0.036090  Iteration 3: Error = 0.006955  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.703721e-01 of 1.000000e+00 (dt = 1.285326e-03).
+  Iteration 0: Error = 0.177995  Iteration 1: Error = 0.068211  Iteration 2: Error = 0.035063  Iteration 3: Error = 0.006825  The Lamb's coefficients converged in 4 iterations.
+  Writing ParaView output file 17 (t = 1.703721e-01)...                    Writing ParaView file 17 (t = 1.703721e-01)...done.
+EXPD: Time = 1.716574e-01 of 1.000000e+00 (dt = 1.285289e-03).
+  Iteration 0: Error = 0.267724  Iteration 1: Error = 0.058688  Iteration 2: Error = 0.033051  Iteration 3: Error = 0.006528  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.729426e-01 of 1.000000e+00 (dt = 1.285250e-03).
+  Iteration 0: Error = 0.333244  Iteration 1: Error = 0.055402  Iteration 2: Error = 0.031801  Iteration 3: Error = 0.006228  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.742278e-01 of 1.000000e+00 (dt = 1.285211e-03).
+  Iteration 0: Error = 0.560801  Iteration 1: Error = 0.053706  Iteration 2: Error = 0.031228  Iteration 3: Error = 0.006133  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.755130e-01 of 1.000000e+00 (dt = 1.285170e-03).
+  Iteration 0: Error = 1.159383  Iteration 1: Error = 0.058520  Iteration 2: Error = 0.032020  Iteration 3: Error = 0.006232  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.767981e-01 of 1.000000e+00 (dt = 1.285133e-03).
+  Iteration 0: Error = 0.045915  Iteration 1: Error = 0.062157  Iteration 2: Error = 0.032791  Iteration 3: Error = 0.006348  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.780832e-01 of 1.000000e+00 (dt = 1.285097e-03).
+  Iteration 0: Error = 0.608954  Iteration 1: Error = 0.077026  Iteration 2: Error = 0.036187  Iteration 3: Error = 0.006854  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.793683e-01 of 1.000000e+00 (dt = 1.285054e-03).
+  Iteration 0: Error = 0.371776  Iteration 1: Error = 0.070259  Iteration 2: Error = 0.035239  Iteration 3: Error = 0.006780  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.806533e-01 of 1.000000e+00 (dt = 1.285013e-03).
+  Iteration 0: Error = 0.233587  Iteration 1: Error = 0.062793  Iteration 2: Error = 0.033794  Iteration 3: Error = 0.006584  The Lamb's coefficients converged in 4 iterations.
+  Writing ParaView output file 18 (t = 1.806533e-01)...                    Writing ParaView file 18 (t = 1.806533e-01)...done.
+EXPD: Time = 1.819383e-01 of 1.000000e+00 (dt = 1.284970e-03).
+  Iteration 0: Error = 0.138377  Iteration 1: Error = 0.060229  Iteration 2: Error = 0.033205  Iteration 3: Error = 0.006499  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.832232e-01 of 1.000000e+00 (dt = 1.284926e-03).
+  Iteration 0: Error = 0.088416  Iteration 1: Error = 0.067250  Iteration 2: Error = 0.034659  Iteration 3: Error = 0.006698  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.845081e-01 of 1.000000e+00 (dt = 1.284881e-03).
+  Iteration 0: Error = 0.049982  Iteration 1: Error = 0.061872  Iteration 2: Error = 0.033572  Iteration 3: Error = 0.006548  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.857929e-01 of 1.000000e+00 (dt = 1.284836e-03).
+  Iteration 0: Error = 0.070965  Iteration 1: Error = 0.058706  Iteration 2: Error = 0.032818  Iteration 3: Error = 0.006437  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.870777e-01 of 1.000000e+00 (dt = 1.284789e-03).
+  Iteration 0: Error = 0.090250  Iteration 1: Error = 0.058478  Iteration 2: Error = 0.032637  Iteration 3: Error = 0.006405  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.883625e-01 of 1.000000e+00 (dt = 1.284743e-03).
+  Iteration 0: Error = 0.124647  Iteration 1: Error = 0.060700  Iteration 2: Error = 0.033360  Iteration 3: Error = 0.006602  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.896472e-01 of 1.000000e+00 (dt = 1.284697e-03).
+  Iteration 0: Error = 0.112439  Iteration 1: Error = 0.062850  Iteration 2: Error = 0.033776  Iteration 3: Error = 0.006664  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.909318e-01 of 1.000000e+00 (dt = 1.284653e-03).
+  Iteration 0: Error = 0.152794  Iteration 1: Error = 0.067350  Iteration 2: Error = 0.034740  Iteration 3: Error = 0.006809  The Lamb's coefficients converged in 4 iterations.
+  Writing ParaView output file 19 (t = 1.909318e-01)...                    Writing ParaView file 19 (t = 1.909318e-01)...done.
+EXPD: Time = 1.922164e-01 of 1.000000e+00 (dt = 1.284615e-03).
+  Iteration 0: Error = 0.052771  Iteration 1: Error = 0.068222  Iteration 2: Error = 0.035078  Iteration 3: Error = 0.006873  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.935010e-01 of 1.000000e+00 (dt = 1.284580e-03).
+  Iteration 0: Error = 0.068376  Iteration 1: Error = 0.070207  Iteration 2: Error = 0.036499  Iteration 3: Error = 0.007374  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.947855e-01 of 1.000000e+00 (dt = 1.284546e-03).
+  Iteration 0: Error = 0.131828  Iteration 1: Error = 0.069660  Iteration 2: Error = 0.036490  Iteration 3: Error = 0.007375  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.960701e-01 of 1.000000e+00 (dt = 1.284515e-03).
+  Iteration 0: Error = 0.114840  Iteration 1: Error = 0.068558  Iteration 2: Error = 0.036209  Iteration 3: Error = 0.007280  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.973545e-01 of 1.000000e+00 (dt = 1.284487e-03).
+  Iteration 0: Error = 0.079908  Iteration 1: Error = 0.067340  Iteration 2: Error = 0.035994  Iteration 3: Error = 0.007247  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.986390e-01 of 1.000000e+00 (dt = 1.284459e-03).
+  Iteration 0: Error = 0.071224  Iteration 1: Error = 0.064582  Iteration 2: Error = 0.034903  Iteration 3: Error = 0.006954  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 1.999234e-01 of 1.000000e+00 (dt = 1.284431e-03).
+  Iteration 0: Error = 0.061691  Iteration 1: Error = 0.074527  Iteration 2: Error = 0.037012  Iteration 3: Error = 0.007261  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 2.012078e-01 of 1.000000e+00 (dt = 1.284403e-03).
+  Iteration 0: Error = 0.084460  Iteration 1: Error = 0.068014  Iteration 2: Error = 0.035808  Iteration 3: Error = 0.007089  The Lamb's coefficients converged in 4 iterations.
+  Writing ParaView output file 20 (t = 2.012078e-01)...                    Writing ParaView file 20 (t = 2.012078e-01)...done.
+EXPD: Time = 2.024922e-01 of 1.000000e+00 (dt = 1.284373e-03).
+  Iteration 0: Error = 0.129284  Iteration 1: Error = 0.072269  Iteration 2: Error = 0.036915  Iteration 3: Error = 0.007292  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 2.037766e-01 of 1.000000e+00 (dt = 1.284345e-03).
+  Iteration 0: Error = 0.277961  Iteration 1: Error = 0.077392  Iteration 2: Error = 0.038133  Iteration 3: Error = 0.007462  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 2.050609e-01 of 1.000000e+00 (dt = 1.284319e-03).
+  Iteration 0: Error = 0.146713  Iteration 1: Error = 0.062188  Iteration 2: Error = 0.034935  Iteration 3: Error = 0.006981  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 2.063452e-01 of 1.000000e+00 (dt = 1.284292e-03).
+  Iteration 0: Error = 0.216815  Iteration 1: Error = 0.048620  Iteration 2: Error = 0.031623  Iteration 3: Error = 0.006444  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 2.076294e-01 of 1.000000e+00 (dt = 1.284261e-03).
+  Iteration 0: Error = 0.501852  Iteration 1: Error = 0.043534  Iteration 2: Error = 0.029892  Iteration 3: Error = 0.006132  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 2.089137e-01 of 1.000000e+00 (dt = 1.284225e-03).
+  Iteration 0: Error = 0.826185  Iteration 1: Error = 0.046072  Iteration 2: Error = 0.029811  Iteration 3: Error = 0.006075  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 2.101978e-01 of 1.000000e+00 (dt = 1.284186e-03).
+  Iteration 0: Error = 0.463644  Iteration 1: Error = 0.053858  Iteration 2: Error = 0.031074  Iteration 3: Error = 0.006240  The Lamb's coefficients converged in 4 iterations.
+  Writing ParaView output file 21 (t = 2.101978e-01)...                    Writing ParaView file 21 (t = 2.101978e-01)...done.
+EXPD: Time = 2.114820e-01 of 1.000000e+00 (dt = 1.284148e-03).
+  Iteration 0: Error = 0.068832  Iteration 1: Error = 0.063174  Iteration 2: Error = 0.032977  Iteration 3: Error = 0.006525  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 2.127661e-01 of 1.000000e+00 (dt = 1.284111e-03).
+  Iteration 0: Error = 0.342057  Iteration 1: Error = 0.071415  Iteration 2: Error = 0.034945  Iteration 3: Error = 0.006841  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 2.140502e-01 of 1.000000e+00 (dt = 1.284079e-03).
+  Iteration 0: Error = 0.349134  Iteration 1: Error = 0.076650  Iteration 2: Error = 0.036469  Iteration 3: Error = 0.007103  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 2.153342e-01 of 1.000000e+00 (dt = 1.284050e-03).
+  Iteration 0: Error = 0.234129  Iteration 1: Error = 0.079351  Iteration 2: Error = 0.037664  Iteration 3: Error = 0.007352  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 2.166183e-01 of 1.000000e+00 (dt = 1.284025e-03).
+  Iteration 0: Error = 0.144355  Iteration 1: Error = 0.079298  Iteration 2: Error = 0.038080  Iteration 3: Error = 0.007425  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 2.179023e-01 of 1.000000e+00 (dt = 1.284003e-03).
+  Iteration 0: Error = 0.106296  Iteration 1: Error = 0.074299  Iteration 2: Error = 0.037350  Iteration 3: Error = 0.007340  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 2.191862e-01 of 1.000000e+00 (dt = 1.283982e-03).
+  Iteration 0: Error = 0.248071  Iteration 1: Error = 0.082517  Iteration 2: Error = 0.039412  Iteration 3: Error = 0.007646  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 2.204702e-01 of 1.000000e+00 (dt = 1.283965e-03).
+  Iteration 0: Error = 0.054443  Iteration 1: Error = 0.071897  Iteration 2: Error = 0.037645  Iteration 3: Error = 0.007458  The Lamb's coefficients converged in 4 iterations.
+  Writing ParaView output file 22 (t = 2.204702e-01)...                    Writing ParaView file 22 (t = 2.204702e-01)...done.
+EXPD: Time = 2.217542e-01 of 1.000000e+00 (dt = 1.283949e-03).
+  Iteration 0: Error = 0.183079  Iteration 1: Error = 0.078003  Iteration 2: Error = 0.039693  Iteration 3: Error = 0.007929  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 2.230381e-01 of 1.000000e+00 (dt = 1.283936e-03).
+  Iteration 0: Error = 0.286155  Iteration 1: Error = 0.091912  Iteration 2: Error = 0.043357  Iteration 3: Error = 0.008608  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 2.243220e-01 of 1.000000e+00 (dt = 1.283925e-03).
+  Iteration 0: Error = 0.388870  Iteration 1: Error = 0.047437  Iteration 2: Error = 0.033314  Iteration 3: Error = 0.006978  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 2.256059e-01 of 1.000000e+00 (dt = 1.283910e-03).
+  Iteration 0: Error = 0.220777  Iteration 1: Error = 0.062210  Iteration 2: Error = 0.035254  Iteration 3: Error = 0.007008  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 2.268898e-01 of 1.000000e+00 (dt = 1.283896e-03).
+  Iteration 0: Error = 0.533200  Iteration 1: Error = 0.032832  Iteration 2: Error = 0.028343  Iteration 3: Error = 0.005915  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 2.281737e-01 of 1.000000e+00 (dt = 1.283877e-03).
+  Iteration 0: Error = 0.574300  Iteration 1: Error = 0.029556  Iteration 2: Error = 0.026572  Iteration 3: Error = 0.005569  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 2.294575e-01 of 1.000000e+00 (dt = 1.283852e-03).
+  Iteration 0: Error = 0.037849  Iteration 1: Error = 0.047399  Iteration 2: Error = 0.029515  Iteration 3: Error = 0.005947  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 2.307414e-01 of 1.000000e+00 (dt = 1.283825e-03).
+  Iteration 0: Error = 0.236687  Iteration 1: Error = 0.072591  Iteration 2: Error = 0.034435  Iteration 3: Error = 0.006574  The Lamb's coefficients converged in 4 iterations.
+  Writing ParaView output file 23 (t = 2.307414e-01)...                    Writing ParaView file 23 (t = 2.307414e-01)...done.
+EXPD: Time = 2.320252e-01 of 1.000000e+00 (dt = 1.283799e-03).
+  Iteration 0: Error = 0.278821  Iteration 1: Error = 0.068185  Iteration 2: Error = 0.033792  Iteration 3: Error = 0.006496  The Lamb's coefficients converged in 4 iterations.
+EXPD: Time = 2.333089e-01 of 1.000000e+00 (dt = 1.283773e-03).
+  Iteration 0: Error = 0.244030  Iteration 1: Error = 0.071742  Iteration 2: Error = 0.034796  Iteration 3: Error = 0.006655  The Lamb's coefficients converged in 4 iterations.
+  Writing restart file (t = 2.333089e-01)...done.               
+================================================================================
+
+Cleaning up domain data on devices...done.     
+Cleaning up particle data on devices...done.
+Cleaning up particles...done.
+Cleaning up domain...done.
+
+...Bluebottle done.
+
